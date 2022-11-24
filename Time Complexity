@@ -1,0 +1,17 @@
+Insertion:
+
+Best case: Ω(logn)
+Average Case: Θ(1)
+Worst Case: O(1)
+
+Searching:
+
+Best Case: Ω(logn)
+Average Case: Θ(n)
+Worst Case: O(n)
+
+Deletion:
+
+Best Case: Ω(logn)
+Average Case: Θ(1)
+Worst Case: O(1)
